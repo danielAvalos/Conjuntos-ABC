@@ -1,0 +1,41 @@
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.Form1.resources
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.Properties.Resources.resources
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.exe
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.pdb
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.exe
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.pdb
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.Form1.resources
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.Properties.Resources.resources
+C:\Users\s112e3\Desktop\Conjuntos\Conjuntos\obj\x86\Debug\Conjuntos.csproj.GenerateResource.Cache
+E:\Conj\Conjuntos\obj\x86\Debug\Conjuntos.exe
+E:\Conj\Conjuntos\obj\x86\Debug\Conjuntos.pdb
+E:\Conj\Conjuntos\bin\Debug\Conjuntos.exe
+E:\Conj\Conjuntos\bin\Debug\Conjuntos.pdb
+E:\Conj\Conjuntos\obj\x86\Debug\Conjuntos.Form1.resources
+E:\Conj\Conjuntos\obj\x86\Debug\Conjuntos.Properties.Resources.resources
+E:\Conj\Conjuntos\obj\x86\Debug\Conjuntos.csproj.GenerateResource.Cache
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\Conjuntos.Form1.resources
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\Conjuntos.Properties.Resources.resources
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\Conjuntos.exe
+C:\Documents and Settings\developer\My Documents\Downloads\Conj\Conjuntos\obj\x86\Debug\Conjuntos.pdb
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conj\Conjuntos\obj\x86\Debug\Conjuntos.exe
+C:\Documents and Settings\developer\My Documents\Visual Studio 2010\Projects\Conj\Conjuntos\obj\x86\Debug\Conjuntos.pdb
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\obj\x86\Debug\Conjuntos.exe
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\obj\x86\Debug\Conjuntos.pdb
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\obj\x86\Debug\Conjuntos.Form1.resources
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\obj\x86\Debug\Conjuntos.Properties.Resources.resources
+C:\Users\dani\Desktop\Programas\C#\Conj\Conjuntos\obj\x86\Debug\Conjuntos.csproj.GenerateResource.Cache
